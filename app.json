@@ -1,7 +1,8 @@
 {
     "expo": {
-        "name": "bloodApp",
-        "slug": "bloodApp",
+        "name": "Donrr BloodApp",
+        "slug": "Donrr_A_drop_can_save_many_lives",
+        "description": "This is an Blood Donate Mobile app ",
         "version": "1.0.0",
         "orientation": "portrait",
         "icon": "./assets/icon.png",
